@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "Développement logiciel métier",
+    "sector": "Transversal",
+    "country": "Côte d’Ivoire",
+    "source": "Veille commerciale",
+    "status": "À qualifier",
+    "deadline": null,
+    "priority": "Haute",
+    "notes": "Cible: entreprises ayant des besoins ERP, applications web/mobile, automatisation, GED, reporting ou IA."
+  },
+  {
+    "id": 2,
+    "title": "Digitalisation RH / paie",
+    "sector": "RH",
+    "country": "Côte d’Ivoire",
+    "source": "Veille commerciale",
+    "status": "À qualifier",
+    "deadline": null,
+    "priority": "Normale",
+    "notes": "Prospecter PME, cabinets, établissements privés et structures multisites."
+  },
+  {
+    "id": 3,
+    "title": "Applications web/mobile sur mesure",
+    "sector": "Services numériques",
+    "country": "Afrique de l’Ouest",
+    "source": "Veille commerciale",
+    "status": "À qualifier",
+    "deadline": null,
+    "priority": "Normale",
+    "notes": "Marchés privés et appels d’offres numériques hors BTP."
+  }
+]
