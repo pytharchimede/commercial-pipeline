@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-09-26T05:34:55Z",
+  "source": "Gmail commercial sync",
+  "summary": {
+    "replies": 1,
+    "bounces": 0,
+    "lastEvent": "Réponse reçue de Prospective Ivoirienne"
+  },
+  "updates": [
+    {
+      "email": "yayacfsi@gmail.com",
+      "status": "Réponse reçue",
+      "lastContact": "2026-09-26",
+      "nextAction": "Proposer une démonstration de 20 min",
+      "nextActionDate": "2026-09-30",
+      "priority": "Haute",
+      "notes": "Bamba Yaya : « Bien reçu, merci ! »",
+      "event": {
+        "type": "reply",
+        "at": "2026-09-26T05:34:55Z",
+        "subject": "Re: FINEA – Solution de pilotage pour Prospective Ivoirienne"
+      }
+    }
+  ]
+}
